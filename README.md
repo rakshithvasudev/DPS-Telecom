@@ -1,7 +1,7 @@
-# DPS-Telecom
+# DPS-Telecom Solution
 ## Solution to DPS Telecom programming challenge  
 
-### Expected Behavior:
+### Expected Behavior in C:
 
 #### Running in the Console, the program receives a sentence from the user.
 a. Output a user prompt.
