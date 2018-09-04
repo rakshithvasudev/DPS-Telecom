@@ -20,6 +20,6 @@ b. Reverse the order of each word in the sentence.<br />
 First Test Output As Needed
 
 ![alt text](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/screenshot/output2.png)
-Second Test Output
+Second Test Output with a space in the end
 
 [Here is the link to the C solution file](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/Part1/main.c)
