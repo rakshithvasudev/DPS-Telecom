@@ -10,10 +10,12 @@ b. User types in a free form sentence and presses ENTER.
 #### When the user presses ENTER, the program performs the following:
 **Note: Please do not use the strtok() function.**
 
-···a. Redisplay the sentence as typed.
-···b. Reverse the order of each word in the sentence.
-	··1. “Smart Label Printer” will become “Printer Label Smart”
-	··2. Alphabetically sort each word in the sentence.
-	··3. “Smart Label Printer” will become “amrSt abeLl einPrrt”
+ï¿½ï¿½ï¿½a. Redisplay the sentence as typed.
+ï¿½ï¿½ï¿½b. Reverse the order of each word in the sentence.
+	ï¿½ï¿½1. ï¿½Smart Label Printerï¿½ will become ï¿½Printer Label Smartï¿½
+	ï¿½ï¿½2. Alphabetically sort each word in the sentence.
+	ï¿½ï¿½3. ï¿½Smart Label Printerï¿½ will become ï¿½amrSt abeLl einPrrtï¿½
 
 ![alt text](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/screenshot/output.png)
+
+[Here is the link to the C solution file](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/Part1/main.c)
