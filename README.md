@@ -17,5 +17,9 @@ b. Reverse the order of each word in the sentence.<br />
 	3. "Smart Label Printer" will become "amrSt abeLl einPrrt".<br />
 
 ![alt text](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/screenshot/output.png)
+First Test Output As Needed
+
+![alt text](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/screenshot/output.png)
+Second Test Output
 
 [Here is the link to the C solution file](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/Part1/main.c)
