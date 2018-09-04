@@ -19,7 +19,7 @@ b. Reverse the order of each word in the sentence.<br />
 ![alt text](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/screenshot/output.png)
 First Test Output As Needed
 
-![alt text](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/screenshot/output.png)
+![alt text](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/screenshot/output2.png)
 Second Test Output
 
 [Here is the link to the C solution file](https://github.com/rakshithvasudev/DPS-Telecom/blob/master/Part1/main.c)
